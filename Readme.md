@@ -1,3 +1,7 @@
+**Backup for the two-player Tic-Tac-Toe Game in Java.**
+This game includes GUI, Java Socket Programming and the application of multi-threading.
+For more info, see the pdf and video.
+
 1. First use command javac *.java to compile all java files if you are using cmd.
 2. Run TicTacToeServer using command java TicTacToeServer.
 3. Run TicTacToeClient twice using command java TicTacToeClient in two cmd in order to play.
